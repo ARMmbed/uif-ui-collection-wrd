@@ -14,7 +14,7 @@
     "uiframework": "^2.0.0",
     "uif-ui-watch-face-wrd": "^1.0.0",
     "uif-ui-popup-alert-wrd": "^1.0.0",
-    "uif-ui-battery-status-wrd": "^1.0.0",
+    "uif-ui-battery-status-wrd": "^2.0.0",
     "uif-ui-touch-calibration-wrd": "^1.0.0",
     "uif-ui-uptime-status-wrd": "^1.0.0"
   }
