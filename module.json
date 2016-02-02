@@ -11,11 +11,11 @@
   "homepage": "https://github.com/ARMmbed/uif-ui-collection-wrd",
   "license": "Apache-2.0",
   "dependencies": {
-    "uiframework": "^2.0.0",
-    "uif-ui-watch-face-wrd": "^1.0.0",
-    "uif-ui-popup-alert-wrd": "^1.0.0",
-    "uif-ui-battery-status-wrd": "^2.0.0",
-    "uif-ui-touch-calibration-wrd": "^1.0.0",
-    "uif-ui-uptime-status-wrd": "^1.0.0"
+    "uiframework": "^3.0.0",
+    "uif-ui-watch-face-wrd": "^2.0.0",
+    "uif-ui-popup-alert-wrd": "^2.0.0",
+    "uif-ui-battery-status-wrd": "^3.0.0",
+    "uif-ui-touch-calibration-wrd": "^2.0.0",
+    "uif-ui-uptime-status-wrd": "^2.0.0"
   }
 }
